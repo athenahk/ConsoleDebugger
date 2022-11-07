@@ -9,7 +9,7 @@ int main()
 	printf("1.打开程序, 2.附加程序:");
 	scanf_s("%d", &choice);
 	if (choice == 1)
-		debug.open("ConsoleApplication1.exe");
+		debug.open("111.exe");
 	else if (choice == 2)
 	{
 
